@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Mathematics",
+    "instructor": "Dr. Smith"
+  },
+  {
+    "id": 2,
+    "name": "History",
+    "instructor": "Prof. Johnson"
+  },
+  {
+    "id": 3,
+    "name": "Calculus I",
+    "instructor": "Dr. Mark"
+  },
+  {
+    "id": 4,
+    "name": "Arts 1",
+    "instructor": "Prof. Ryan"
+  }
+]
